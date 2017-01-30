@@ -1,6 +1,33 @@
 {  
     "ApexClass":[  
         {  
+            "name":"1. ApexClass",
+            "file_name":"1ApexClass.cls",
+            "description":"The template for an Apex Class with banner showing associated test class. ",
+            "author":"//-Hj-",
+            "params":[  
+                {  
+                    "name":"api_name",
+                    "description":"Apex Class API Name",
+                    "default":"MyApexClass"
+                }
+            ]
+        },
+        {  
+            "name":"1. UnitTestApexClass",
+            "file_name":"1UnitTestApexClass.cls",
+            "description":"The template for an Apex Test Class with banner showing classes that it tests. ",
+            "author":"//-Hj-",
+            "params":[  
+                {  
+                    "name":"api_name",
+                    "description":"Apex Class API Name",
+                    "default":"MyApexClass"
+                }
+            ]
+        },
+        {  
+
             "name":"Default",
             "file_name":"ApexClass.cls",
             "description":"The default template for an Apex Class",
