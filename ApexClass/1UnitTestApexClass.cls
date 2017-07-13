@@ -3,7 +3,10 @@ private class {{ api_name }} {
     // ##################################################
     // FOR: NAME_OF_CLASSes_THIS_TESTS.cls
     // ##################################################
-
+	/* >>- Changelog -<<
+	 * _REPLACE_WITH_DATE_
+	
+     */
 
 	@isTest
     static void test_A_1() {
